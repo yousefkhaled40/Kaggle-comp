@@ -25,7 +25,7 @@
 - Dealing with data
 
 - Exploring this questions:
-- 
+
     - Q1: Does price vary with Airlines?
     - Q2: How Does the Ticket Price vary with the number of stops of a Flight?
     - Q3: How the Ticket Price change based on the Departure Time and Arrival Time?
