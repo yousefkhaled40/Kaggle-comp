@@ -24,6 +24,7 @@
 
 - Dealing with data
 
+
 - Exploring this questions:
 
     - Q1: Does price vary with Airlines?
