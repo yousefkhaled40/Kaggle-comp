@@ -1,16 +1,18 @@
 # Kaggle-comp
 - Summary
-- Analysis and Results:
-- Selected features are:
-- Source (4 Sources were selected for this project)
-- Destination (4 Destinations were selected for this project)
-Total Stops
-Average Price per Airline
-Duration
-Price (Target)
-Project Various Step
-Data Exploration
-I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
+  - Analysis and Results:
+  - Selected features are:
+  - Source (4 Sources were selected for this project)
+  - Destination (4 Destinations were selected for this project)
+  - Total Stops
+  - Average Price per Airline
+  - Duration
+  - Price (Target)
+
+- Project Various Step
+
+  - Data Exploration
+    - I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 Data cleaning.
 Data visualization
 Ploted Prices with different features.
