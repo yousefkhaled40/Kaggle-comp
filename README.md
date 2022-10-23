@@ -1,9 +1,9 @@
 # Kaggle-comp
-Summary
-Analysis and Results:
-Selected features are:
-Source (4 Sources were selected for this project)
-Destination (4 Destinations were selected for this project)
+- Summary
+- Analysis and Results:
+- Selected features are:
+- Source (4 Sources were selected for this project)
+- Destination (4 Destinations were selected for this project)
 Total Stops
 Average Price per Airline
 Duration
